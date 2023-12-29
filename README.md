@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sports-exclusive
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# WorldTv
+WorldTv PHP Script😁😁😁😁😁❤️❤️❤️
 
-<!---
-sports-exclusive/sports-exclusive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Download And Host This On Free Hostings Like
+infifinityfree
+profreehost
+
+This Script Only Works ON Http(Non SSL) Web😊😊😊
+
+Do Not Run Ads In This Free Script Else it will be Clodsed
