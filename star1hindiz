@@ -16,11 +16,11 @@
     height: "100%",
     autostart: true,
     mute: false,
-    file: "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd?",
+    file: "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd?",
     drm: {
       clearkey: {
-        key: "b248519efbde52fe5f8ef9c56356c9a3",
-        keyId: "bc5ea952698553daaba85787001d6093"
+        key: "49d1acc1dc6426331da6d0a0ff4e67a7",
+        keyId: "6a9e4204f3f8577ebf6e79b3b18573f8"
       }
     }
   });
